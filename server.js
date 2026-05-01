@@ -18,7 +18,7 @@ app.get("/users/:id",(req,res)=> {
     res.json({
         id:1,
         name:'Krish',
-        clientData:clientData,
+        clientData,
     });
 });
 

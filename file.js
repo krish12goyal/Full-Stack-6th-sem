@@ -6,7 +6,7 @@
 // const mul = multiply(3, 5);
 // console.log("Multiply : ", mul);
 
-// // export const rootVar = 1234;
+// // export const rootVar = 1234l;
 
 // // import { readFile } from './fileSys.js';
 // // readFile();
